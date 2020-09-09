@@ -1,4 +1,4 @@
-//JAI SHRI RAM!!!
+
 #include<p18f4550.h>
 #include<delays.h>
 #include<stdio.h>
